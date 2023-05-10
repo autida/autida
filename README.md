@@ -10,4 +10,4 @@ Here are some ideas to get you started: -->
 
 ## Languages and Tools:
 
-![pngaaa com-5505249](https://github.com/autida/autida/assets/43236820/645aa261-7cc5-4205-a864-f19e02fe071f)
+![pngaaa com-5505249](https://github.com/autida/autida/assets/43236820/645aa261-7cc5-4205-a864-f19e02fe071f | width = 250)
