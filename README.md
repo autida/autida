@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=szdonn&label=Profile%20views&color=0e75b6&style=flat" alt="ana" /> 
+<img src="https://komarev.com/ghpvc/?username=autida&label=Profile%20views&color=0e75b6&style=flat" alt="ana" /> 
 </p>
 <!-- 
 **autida/autida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
